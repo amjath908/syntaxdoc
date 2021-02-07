@@ -1,0 +1,4 @@
+FROM ubuntu
+MAINTAINER amjath908@gmail.com
+WORKDIR /root/internship
+CMD pwd
