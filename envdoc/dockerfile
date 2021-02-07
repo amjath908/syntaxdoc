@@ -1,0 +1,3 @@
+FROM ubuntu
+MAINTAINER amjath908@gmail.com
+ENV var1=Hello var2=World
